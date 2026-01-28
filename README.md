@@ -52,7 +52,7 @@ This project demonstrates a proactive security posture, where lessons learned ca
 ---
 
 ### ⚓ Multi-Career Perspective
-In both critical care nursing and fire/rescue, we rely on **Standard Operating Procedures (SOPs)** to ensure success under pressure. This project is a digital SOP. It demonstrates that whether I am stabilizing a patient or a network, I follow a disciplined, repeatable process to ensure the "safety of the scene" and the integrity of the mission.
+In both critical care medicine and fire/rescue, we rely on **Standard Operating Procedures (SOPs)** to ensure success under pressure. This project is a digital SOP. It demonstrates that whether I am stabilizing a patient or a network, I follow a disciplined, repeatable process to ensure the "safety of the scene" and the integrity of the mission.
 
 ---
 
